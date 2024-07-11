@@ -1,22 +1,37 @@
-.header-maincont{
-    height: 40px;
+html{
+    background: linear-gradient(
+    106deg,
+    #1e1d48 0.1%,
+    #312840 52.18%,
+    #282727 107.09%
+  );
+}
+
+.header-btnscont{
+    height: 60px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 170px;
+    background-color: rgb(7, 8, 14, 85%);
 }
 
 .header-btns{
-    background-color: white;
-    flex: 1;
-    padding: 10px 20px;
-    font-size: 16px;
+    background-color: rgb(7, 8, 14, 0%);
+    color: white;
+    font-size: 26px;
     font-weight: bold;
     border: none;
     cursor: pointer;
-    transition: background-color 0.5s ease, transform 0.5s ease;
 }
 
 .header-btns:hover{
-    flex: 3;
-    background-color: #007BFF;
-    color: white;
-    transform: scale(1.05);
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.8),
+    0 0 10px rgba(255, 255, 255, 0.8),
+    0 0 12px rgba(255, 255, 255, 0.8);
+    font-size: 31px;
+}
+
+.header-btns:active{
+    text-shadow: none;
 }

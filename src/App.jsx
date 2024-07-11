@@ -1,14 +1,13 @@
 import './App.css';
-import Footer from './common/Footer';
 import Header from './common/Header';
+import Option from './pages/Games/Option';
 
 function App() {
   return (
     <div>
       <Header></Header>
-      ここにメインコンテンツ
-    
-      <Footer></Footer>
+      <Option></Option>
+        ここにメインコンテンツ
     </div>
   );
 }
