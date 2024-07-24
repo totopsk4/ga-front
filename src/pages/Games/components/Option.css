@@ -5,10 +5,10 @@
 }
 
 .option_genrecont{
-    height: 40px;
+    height: 45px;
     border-radius: 45px;
     background-color: rgb(7, 8, 14, 50%);
-    margin: 10px;
+    margin: 13px;
     margin-left: 75px;
     padding-left: 30px;
     padding-right: 30px;
@@ -29,10 +29,10 @@
 }
 
 .option_sortcont{
-    height: 40px;
+    height: 45px;
     border-radius: 45px;
     background-color: rgb(7, 8, 14, 50%);
-    margin: 10px;
+    margin: 13px;
     padding-left: 30px;
     padding-right: 30px;
     display: flex;

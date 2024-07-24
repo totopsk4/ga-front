@@ -2,11 +2,12 @@
     height: 100vh;
     width: auto;
     margin: 75px;
-    margin-top: 40px;
+    margin-top: 0px;
     background-color: transparent;
     display: flex;
-    justify-content: start;
+    justify-content: center;
     align-items: start;
+    flex-wrap : wrap;
     gap: 50px;
 }
 

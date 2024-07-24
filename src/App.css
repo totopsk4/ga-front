@@ -2,3 +2,14 @@
   margin: 0;
   padding: 0;
 }
+
+:root{
+  --header-height: 100px;
+    @media screen and (max-width: 767px){
+        --header-height: 60px;
+      }
+  }
+body {
+  scroll-behavior: smooth;
+  scroll-padding-top: none;
+}

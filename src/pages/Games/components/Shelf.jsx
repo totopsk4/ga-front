@@ -32,6 +32,105 @@ function Shelf() {
                     </div>
                 </div>
             </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            <Button id = "testA" className = "shelf_gamecontbtn">
+                <div className = "shelf_gamethumnail">
+                    <div className = "shelf_price">
+                        ¥,1300
+                    </div>
+                </div>
+            </Button>
+            
         </div>
     );
   }
