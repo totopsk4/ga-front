@@ -7,7 +7,7 @@ html{
   );
 }
 
-.header-btnscont{
+.header_btnscont{
     height: 60px;
     display: flex;
     justify-content: center;
@@ -16,22 +16,22 @@ html{
     background-color: rgb(7, 8, 14, 85%);
 }
 
-.header-btns{
+.header_btns{
     background-color: rgb(7, 8, 14, 0%);
     color: white;
-    font-size: 26px;
+    font-size: 29px;
     font-weight: bold;
     border: none;
     cursor: pointer;
+    transition: all 0.4s ease;
 }
 
-.header-btns:hover{
+.header_btns:hover{
     text-shadow: 0 0 8px rgba(255, 255, 255, 0.8),
     0 0 10px rgba(255, 255, 255, 0.8),
     0 0 12px rgba(255, 255, 255, 0.8);
-    font-size: 31px;
 }
 
-.header-btns:active{
+.header_btns:active{
     text-shadow: none;
 }

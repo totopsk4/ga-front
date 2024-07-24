@@ -1,4 +1,4 @@
-.footer-maincont{
+.footer_maincont{
     background-color: #808080;
     height: 50px;
     display: flex;
@@ -7,18 +7,18 @@
     flex-direction: column;
 }
 
-.footer-links{
+.footer_links{
     border: none;
     background-color: grey;
     height: auto;
     font-size: 14px;
 }
 
-.footer-links:hover{
+.footer_links:hover{
    cursor: pointer;
 }
 
-.footer-links:active{
+.footer_links:active{
     color: white;
     font-weight: bold;
  }

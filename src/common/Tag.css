@@ -1,4 +1,4 @@
-.tag-maincont{
+.tag_maincont{
     height: 25px;
     background-color: white;
     border-radius: 45px;
@@ -10,22 +10,26 @@
     padding-right: 15px;
 }
 
-.tag-delbtn{
+.tag_delbtn{
     height: 20px;
     width: 20px;
     border-radius: 45px;
     border-color: rgb(7, 8, 14);
     background-color: rgb(7, 8, 14);
     border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
 }
 
-.tag-delbtnimg{
+.tag_delbtnimg{
     height: 10px;
     width: 10px;
 }
 
-.tag-txt{
-    font-size: 22px;
+.tag_txt{
+    font-size: 19px;
     font-weight: bold;
     color: rgb(7, 8, 14)
 }

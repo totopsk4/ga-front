@@ -1,15 +1,15 @@
-.option-maincont{
+.option_maincont{
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
 }
 
-.option-genrecont{
-    height: 50px;
+.option_genrecont{
+    height: 40px;
     border-radius: 45px;
     background-color: rgb(7, 8, 14, 50%);
     margin: 10px;
-    margin-left: 120px;
+    margin-left: 75px;
     padding-left: 30px;
     padding-right: 30px;
     display: flex;
@@ -18,15 +18,17 @@
     gap: 17px;
 }
 
-.option-genretxt{
+.option_genretxt{
     color: white;
     font-size: 22px;
     font-weight: bold;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.option-sortcont{
-    height: 50px;
+.option_sortcont{
+    height: 40px;
     border-radius: 45px;
     background-color: rgb(7, 8, 14, 50%);
     margin: 10px;
@@ -38,21 +40,25 @@
     gap: 17px;
 }
 
-.option-sorttxt{
+.option_sorttxt{
     color: white;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
 }
 
-.option-addbtn{
+.option_addbtn{
     height: 22px;
     width: 22px;;
     background-color: transparent;
     border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
 }
 
-.option-addbtnimg{
+.option_addbtnimg{
     height: 15px;
     width: 15px;
     transform: rotate( -45deg );
