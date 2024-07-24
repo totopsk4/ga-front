@@ -25,6 +25,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    user-select: none;
 }
 
 .option_sortcont{
@@ -45,6 +46,7 @@
     font-size: 22px;
     font-weight: bold;
     text-align: center;
+    user-select: none;
 }
 
 .option_addbtn{
