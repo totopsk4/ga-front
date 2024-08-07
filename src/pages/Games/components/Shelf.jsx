@@ -4,133 +4,17 @@ import "./Shelf.css";
 function Shelf() {
     return (
         <div className = "shelf-maincont">
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
+            <div className = "shelf_gamecont">
+                <Button className = "shelf_gamefront">
+                    表
+                    {/* <div className = "shelf_price">
                         ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            <Button id = "testA" className = "shelf_gamecontbtn">
-                <div className = "shelf_gamethumnail">
-                    <div className = "shelf_price">
-                        ¥,1300
-                    </div>
-                </div>
-            </Button>
-            
+                    </div> */}
+                </Button>
+                {/* <Button className = "shelf_gameback">
+                    裏
+                </Button> */}
+            </div>
         </div>
     );
   }

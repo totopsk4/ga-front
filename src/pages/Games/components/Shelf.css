@@ -11,16 +11,37 @@
     gap: 50px;
 }
 
-.shelf_gamecontbtn{
+.shelf_gamecont{
+    border-radius: 10px;
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2);
+}
+
+.shelf_gamecont:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.8),
+    0 0 10px rgba(255, 255, 255, 0.8),
+    0 0 12px rgba(255, 255, 255, 0.8);
+}
+
+.shelf_gamefront{
     height: 209px;
     width: 162px;
     background-color: grey;
     cursor: pointer;
     display: flex;
-    position: relative;
     border-radius: 10px;
     border: none;
-    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2);
+}
+
+.shelf_gameback{
+    height: 209px;
+    width: 162px;
+    background-color: white;
+    cursor: pointer;
+    display: flex;
+    border-radius: 10px;
+    border: none;
 }
 
 .shelf_price{
@@ -35,10 +56,5 @@
     font-weight: bolder;
     color: white;
 }
-
-.shelf_gamecontbtn:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.2);
-  }
   
 
